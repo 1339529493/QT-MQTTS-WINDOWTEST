@@ -1,0 +1,3 @@
+[submodule "src/src/qmqttclient/qtmqtt"]
+	path = src/src/qmqttclient/qtmqtt
+	url = https://gitcode.com/gh_mirrors/qt/qtmqtt.git
